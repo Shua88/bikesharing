@@ -1,6 +1,13 @@
 # Bikesharing Challenge
 
+[link to dashboard](https://public.tableau.com/app/profile/josh.albrecht/viz/Challenge_16795165800350/CitibikeAnalysis)
+
 ## Overview of the Analysis
+
+We were tasked with building out an analysis using tableau for our investors interested in possibly starting a Citibike in Des Moines Iowa. 
+
+We looked at our data from NYC and worked on indicators like average trip duration and peak hours in order to share with the investors the information they needed. 
+
 
 ## Results
 
